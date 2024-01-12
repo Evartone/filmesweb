@@ -1,9 +1,13 @@
 
 Movie Showcase Project with React
+
+
 Overview
+
 Este projeto é um showcase de filmes desenvolvido usando React. Ele permite que os usuários pesquisem e visualizem informações sobre diferentes filmes utilizando a API de busca de filmes.
 
 Funcionalidades
+
 Pesquisa de Filmes:
 
 Os usuários podem pesquisar filmes utilizando a barra de pesquisa.
