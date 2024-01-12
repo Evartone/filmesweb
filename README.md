@@ -20,3 +20,7 @@ Detalhes do Filme:
 
 Os usuários podem clicar em um cartão de filme para ver detalhes adicionais.
 A página de detalhes exibe informações mais abrangentes sobre o filme, como título, tagline, elenco e sinopse.
+
+
+podes visitar o projecto em: onlymovies-top.netlify.app 
+
